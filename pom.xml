@@ -11,6 +11,11 @@
             <url>http://opensource.org/licenses/MIT</url>
         </license>
     </licenses>
+    <scm>
+		<url>https://github.com/erickvls/simple-maven-project-with-test</url>
+		<connection>scm:git:git://github.com/erickvls/simple-maven-project-with-tests.git</connection>
+		<developerConnection>scm:git:git@github.com/erickvls/simple-maven-project-with-tests.git</developerConnection>
+	</scm>
     <build>
         <plugins>
             <plugin>
